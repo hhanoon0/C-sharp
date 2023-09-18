@@ -1,0 +1,14 @@
+/Users/husain/Documents/C-sharp/GettingStarted/bin/Debug/net7.0/GettingStarted
+/Users/husain/Documents/C-sharp/GettingStarted/bin/Debug/net7.0/GettingStarted.deps.json
+/Users/husain/Documents/C-sharp/GettingStarted/bin/Debug/net7.0/GettingStarted.runtimeconfig.json
+/Users/husain/Documents/C-sharp/GettingStarted/bin/Debug/net7.0/GettingStarted.dll
+/Users/husain/Documents/C-sharp/GettingStarted/bin/Debug/net7.0/GettingStarted.pdb
+/Users/husain/Documents/C-sharp/GettingStarted/obj/Debug/net7.0/GettingStarted.GeneratedMSBuildEditorConfig.editorconfig
+/Users/husain/Documents/C-sharp/GettingStarted/obj/Debug/net7.0/GettingStarted.AssemblyInfoInputs.cache
+/Users/husain/Documents/C-sharp/GettingStarted/obj/Debug/net7.0/GettingStarted.AssemblyInfo.cs
+/Users/husain/Documents/C-sharp/GettingStarted/obj/Debug/net7.0/GettingStarted.csproj.CoreCompileInputs.cache
+/Users/husain/Documents/C-sharp/GettingStarted/obj/Debug/net7.0/GettingStarted.dll
+/Users/husain/Documents/C-sharp/GettingStarted/obj/Debug/net7.0/refint/GettingStarted.dll
+/Users/husain/Documents/C-sharp/GettingStarted/obj/Debug/net7.0/GettingStarted.pdb
+/Users/husain/Documents/C-sharp/GettingStarted/obj/Debug/net7.0/GettingStarted.genruntimeconfig.cache
+/Users/husain/Documents/C-sharp/GettingStarted/obj/Debug/net7.0/ref/GettingStarted.dll
